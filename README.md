@@ -1,2 +1,5 @@
-# Diary-Loan-2
-Diary Loan 
+index.html
+style.css
+script.js
+README.txt
+assets/
